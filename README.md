@@ -77,13 +77,19 @@ Spiel starten, fertig. ;)
 
 ____ENDE____
 
+.
 
+.
 
+.
 
+.
 
+.
 
+.
 
-
+.
 
 Müll:
 
